@@ -17,3 +17,6 @@ int main(){
     free(arr);
     return 0;
 }
+//To run the file
+//PS D:\JP> gcc BasicDynamic1DArray.c -o BasicDynamic1DArray.exe;
+//PS D:\JP> ./BasicDynamic1DArray.exe
