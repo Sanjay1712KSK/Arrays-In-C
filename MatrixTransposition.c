@@ -84,12 +84,14 @@ int main(){
     return 0;
 }
 
-//To run this file
-// gcc MatrixTransposition.c -o MatrixTransposition.exe
-//./MatrixTransposition.exe
+/* To run this file
+gcc MatrixTransposition.c -o MatrixTransposition.exe
+./MatrixTransposition.exe */
 
 //How to Push a file into github in VS terminal (BASH)
 /* git status
 git add .
 git commit -m "Updated"
 git push origin main */
+
+// CTRL+SHIFT+A for multi line comments and CTRL+/ FOR Single line comments
