@@ -2,10 +2,9 @@
 
 --
 
-```c
-/* To run this file
+```To run this file sh
 gcc <The file name>.c -o <The file name>.exe
-./<The file name>.exe */
+./<The file name>.exe
 ```
 
 ## How to Push a File into GitHub in VS Terminal (BASH)
