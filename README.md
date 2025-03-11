@@ -1,8 +1,9 @@
 # Arrays-In-C
 
 --
-## To run this file
+## To run the file
 ``` sh
+gcc --version #Just check once and proceed
 gcc <The file name>.c -o <The file name>.exe
 ./<The file name>.exe
 ```
