@@ -4,8 +4,8 @@
 
 ```c
 /* To run this file
-gcc MatrixTransposition.c -o MatrixTransposition.exe
-./MatrixTransposition.exe */
+gcc <The file name>.c -o <The file name>.exe
+./<The file name>.exe */
 ```
 
 ## How to Push a File into GitHub in VS Terminal (BASH)
