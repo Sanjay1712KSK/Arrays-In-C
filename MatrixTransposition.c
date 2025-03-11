@@ -79,6 +79,11 @@ int main(){
     else{
         goto selection;
     }
-    Transpose(rows,cols,mat[rows][cols]);
+    printf("Transposing the array\n");
+    Transpose(rows,cols,mat);
     return 0;
 }
+
+//To run this file
+// gcc MatrixTransposition.c -o MatrixTransposition.exe
+//./MatrixTransposition.exe
