@@ -1,8 +1,8 @@
 # Arrays-In-C
 
 --
-
-```To run this file sh
+## To run this file
+``` sh
 gcc <The file name>.c -o <The file name>.exe
 ./<The file name>.exe
 ```
