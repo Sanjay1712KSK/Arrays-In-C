@@ -94,4 +94,6 @@ git add .
 git commit -m "Updated"
 git push origin main */
 
+// To update the repo in your local environment "git pull origin main"
+
 // CTRL+SHIFT+A for multi line comments and CTRL+/ FOR Single line comments
